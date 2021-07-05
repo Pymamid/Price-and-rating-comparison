@@ -13,3 +13,8 @@ No installations required. To view the notebook file online, open https://nbview
 https://github.com/Pymamid/Price-and-rating-comparison/blob/master/compare_price_rating%20-%20Jupyter%20Notebook.html
 Press 'go' button to view the notebook.
 
+Screenshots
+---------
+![Screenshot (295)](https://user-images.githubusercontent.com/86880569/124457787-d5bbd380-dda9-11eb-848f-8aea99bf0986.png)
+
+![Screenshot (293)](https://user-images.githubusercontent.com/86880569/124457631-a1481780-dda9-11eb-9949-024130f91f8b.png)
